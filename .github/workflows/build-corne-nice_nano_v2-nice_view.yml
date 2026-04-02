@@ -32,4 +32,4 @@ jobs:
     with:
       board: '["nice_nano//zmk"]'
       shield: '["corne_left nice_view_adapter nice_view","corne_right nice_view_adapter nice_view","settings_reset"]'
-      alphas: '["QWERTY"]'å
+      alphas: '["QWERTY"]'
